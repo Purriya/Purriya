@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Usman%2&fontSize=42&fontAlignY=35&desc=React%20Native%20•%20Full%20Stack%20MERN%20Developer&descAlignY=58&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=React%20Native%20•%20Full%20Stack%20MERN%20Developer&descAlignY=58&fontColor=ffffff)
 
 <h3 align="center">React Native / MERN Stack / Full Stack Developer</h3>
 
@@ -12,7 +12,7 @@
 - 🚀 Specialized in **React Native**, **Expo Router**, and **MERN Stack**  
 - 🌱 Currently learning **advanced backend & serverless patterns**  
 - 💬 Ask me about **React Native, tRPC, Next.js, MongoDB, Express**  
-- 📫 Reach me at **usmanjutt04747@gmail.com**  
+- 📫 Reach me at **idkpurriya@gmail.com**  
 - ⚡ Fun fact: *Code, Coffee, and Clean UI — my daily stack ☕📱*  
 
 ---
