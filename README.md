@@ -1,128 +1,98 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20•%20Learning%20Backend%20Development&descAlignY=58&fontColor=ffffff)
 
-<h3 align="center">Frontend Web Developer | Learning Backend Development</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Building+responsive%2C+accessible+UIs;Currently+learning+Backend+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Purriya&label=Profile%20views&color=6a11cb&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Purriya?label=Followers&style=flat&color=2575fc" alt="followers" />
+</p>
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Purriya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+### 👋 About Me
+
+- 💻 Front-end web developer with **2 years of experience**
+- 🚀 Specialized in **React** and **Next.js**
+- 🌱 Currently learning **Backend Development** (Node.js, Express, MongoDB)
+- 🎯 Building responsive, accessible, and user-focused web applications
+- 📫 Reach me at **idkpurriya@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend (Learning)**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Purriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purriya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-- 💻 Front-end web developer with **2 years of experience**  
-- 🚀 Specialized in **React** and **Next.js**  
-- 🌱 Currently learning **Backend Development**  
-- 🎯 Building responsive, accessible, and user-focused web applications  
-- 📫 Reach me at **idkpurriya@gmail.com**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purriya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
-
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purriya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%" />
 </p>
 
 ---
 
-<h3 align="left">📊 Language Usage Analytics</h3>
+### 🏆 Trophies
 
-<div align="center">
-
-### Language Distribution
-
-![TypeScript](https://img.shields.io/badge/TypeScript-43%25-3178c6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-47%25-f7df1e?style=for-the-badge&logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-2.5%25-563d7c?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-5%25-e34c26?style=for-the-badge&logo=html5)
-![Other](https://img.shields.io/badge/Other-2.5%25-gray?style=for-the-badge)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Purriya&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
 
 ---
 
-### Colorful Progress Bars
+### 🌐 Connect With Me
 
-**💛 JavaScript**
-```
-████████████████████████████████████████░░ 47%
-```
-
-**📘 TypeScript**
-```
-██████████████████████████████████░░░░░░░░ 43%
-```
-
-**🎨 CSS**
-```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.5%
-```
-
-**🔴 HTML**
-```
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
-```
-
-**⚙️ Other**
-```
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.5%
-```
+<p align="left">
+  <a href="mailto:idkpurriya@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
 ---
 
-### Tech Stack Breakdown
+<p align="center"><i>Thanks for stopping by — always open to collaborating on frontend projects! 🚀</i></p>
 
-| Category | Technologies | Usage |
-|----------|--------------|-------|
-| **Frontend Framework** | React, Next.js | ⭐⭐⭐⭐⭐ |
-| **Language** | JavaScript, TypeScript | ⭐⭐⭐⭐⭐ |
-| **Styling** | CSS, Tailwind CSS | ⭐⭐⭐⭐ |
-| **Backend (Learning)** | Node.js, Express | ⭐⭐⭐ |
-
----
-
-### Repository Stats
-- 📁 **42 Repositories Analyzed**
-- 💾 **Total Code: 4.8M+ Lines**
-- 🎯 **Primary Focus:** Frontend Development
-- 📈 **Growth:** Expanding into Backend
-
-</div>
-
----
-
-<h3 align="left">🏗️ Technical Specialization</h3>
-
-<div align="center">
-
-**Frontend:** 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend (Learning):**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-
-</div>
-
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer)
