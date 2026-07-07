@@ -43,36 +43,86 @@
 
 ---
 
-<h3 align="left">📊 Language Usage Statistics</h3>
+<h3 align="left">📊 Language Usage Analytics</h3>
 
 <div align="center">
-  
-| Language | Usage | Percentage |
-|----------|-------|-----------|
-| **JavaScript** | ████████████████░░ | 47% |
-| **TypeScript** | ███████████████░░░ | 43% |
-| **CSS** | ██░░░░░░░░░░░░░░░░ | 2.5% |
-| **HTML** | ███████░░░░░░░░░░░░ | 5% |
-| **Other** | █░░░░░░░░░░░░░░░░░ | 2.5% |
 
-</div>
+### Language Distribution
 
-**Total Code Analyzed:** 42 repositories
+![TypeScript](https://img.shields.io/badge/TypeScript-43%25-3178c6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-47%25-f7df1e?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-2.5%25-563d7c?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-5%25-e34c26?style=for-the-badge&logo=html5)
+![Other](https://img.shields.io/badge/Other-2.5%25-gray?style=for-the-badge)
 
 ---
 
-<h3 align="left">🏗️ Most Used Technologies</h3>
+### Colorful Progress Bars
 
-**Frontend Stack:**
-- 🎯 **React** & **Next.js** - Primary frameworks
-- 📘 **TypeScript** - Type-safe development
-- 🎨 **CSS** & **Tailwind CSS** - Styling solutions
-- 💛 **JavaScript** - Core language
+**💛 JavaScript**
+```
+████████████████████████████████████████░░ 47%
+```
 
-**Project Focus:**
-- Portfolio & Personal Brand Websites
-- UI/UX Interactive Dashboards
-- E-Commerce Platforms
-- Landing Pages & Agency Sites
+**📘 TypeScript**
+```
+██████████████████████████████████░░░░░░░░ 43%
+```
+
+**🎨 CSS**
+```
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.5%
+```
+
+**🔴 HTML**
+```
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
+```
+
+**⚙️ Other**
+```
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.5%
+```
+
+---
+
+### Tech Stack Breakdown
+
+| Category | Technologies | Usage |
+|----------|--------------|-------|
+| **Frontend Framework** | React, Next.js | ⭐⭐⭐⭐⭐ |
+| **Language** | JavaScript, TypeScript | ⭐⭐⭐⭐⭐ |
+| **Styling** | CSS, Tailwind CSS | ⭐⭐⭐⭐ |
+| **Backend (Learning)** | Node.js, Express | ⭐⭐⭐ |
+
+---
+
+### Repository Stats
+- 📁 **42 Repositories Analyzed**
+- 💾 **Total Code: 4.8M+ Lines**
+- 🎯 **Primary Focus:** Frontend Development
+- 📈 **Growth:** Expanding into Backend
+
+</div>
+
+---
+
+<h3 align="left">🏗️ Technical Specialization</h3>
+
+<div align="center">
+
+**Frontend:** 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend (Learning):**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
