@@ -40,3 +40,39 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
+<h3 align="left">📊 Language Usage Statistics</h3>
+
+<div align="center">
+  
+| Language | Usage | Percentage |
+|----------|-------|-----------|
+| **JavaScript** | ████████████████░░ | 47% |
+| **TypeScript** | ███████████████░░░ | 43% |
+| **CSS** | ██░░░░░░░░░░░░░░░░ | 2.5% |
+| **HTML** | ███████░░░░░░░░░░░░ | 5% |
+| **Other** | █░░░░░░░░░░░░░░░░░ | 2.5% |
+
+</div>
+
+**Total Code Analyzed:** 42 repositories
+
+---
+
+<h3 align="left">🏗️ Most Used Technologies</h3>
+
+**Frontend Stack:**
+- 🎯 **React** & **Next.js** - Primary frameworks
+- 📘 **TypeScript** - Type-safe development
+- 🎨 **CSS** & **Tailwind CSS** - Styling solutions
+- 💛 **JavaScript** - Core language
+
+**Project Focus:**
+- Portfolio & Personal Brand Websites
+- UI/UX Interactive Dashboards
+- E-Commerce Platforms
+- Landing Pages & Agency Sites
+
+---
