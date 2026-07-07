@@ -1,14 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20•%20Learning%20Backend%20Development&descAlignY=58&fontColor=ffffff" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=50&descAlign=62" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Building+responsive%2C+accessible+UIs;Currently+learning+Backend+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Building+responsive+and+scalable+web+apps;Always+learning+something+new!" alt="Typing Animation" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purriya&label=Profile%20views&color=6a11cb&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Purriya?label=Followers&style=flat&color=2575fc" alt="followers" />
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
