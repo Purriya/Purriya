@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20•%20Learning%20Backend%20Development&descAlignY=58&fontColor=ffffff)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20•%20Learning%20Backend%20Development&descAlignY=58&fontColor=ffffff" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -48,4 +48,4 @@
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on frontend projects! 🚀</i></p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" alt="Footer" />
