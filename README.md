@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
@@ -39,11 +39,4 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
-</p>
-
----
-
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Purriya&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
