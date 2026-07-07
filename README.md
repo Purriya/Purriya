@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=50&descAlign=62" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=230&section=header&text=Muhammad%20Hasnain%20Mahmood&fontSize=42&fontAlignY=35&desc=Frontend%20Developer%20•%20Learning%20Backend%20Development&descAlignY=58&fontColor=ffffff" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
