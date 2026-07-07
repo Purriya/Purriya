@@ -6,10 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purriya&label=Profile%20views&color=6a11cb&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Purriya?label=Followers&style=flat&color=2575fc" alt="followers" />
-</p>
+
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
